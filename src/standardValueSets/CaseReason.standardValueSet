@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Incomplete Inventory</fullName>
+        <default>false</default>
+        <label>Incomplete Inventory</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Broken Parts</fullName>
+        <default>false</default>
+        <label>Broken Parts</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Compiling Issue</fullName>
+        <default>false</default>
+        <label>Compiling Issue</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+</StandardValueSet>
